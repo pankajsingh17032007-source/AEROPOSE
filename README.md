@@ -11,7 +11,6 @@ A computer vision tool built with OpenCV and MediaPipe Pose to analyze badminton
 
 Setup & Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/pankajsingh17032007-source/AEROPOSE.git](https://github.com/pankajsingh17032007-source/AEROPOSE.git)
-   cd AEROPOSE
+1. Clone the repository:
+2. git clone https://github.com/pankajsingh17032007-source/AEROPOSE.git
+   
